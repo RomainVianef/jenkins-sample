@@ -13,8 +13,9 @@
   <sonar.projectKey>bnasslahsen_jenkins-sample</sonar.projectKey>
   <sonar.host.url>https://sonarcloud.io</sonar.host.url>
  </properties>-->
-  <properties>
+ <properties>
   <sonar.organization>romainvianef</sonar.organization>
+  <sonar.projectKey>RomainVianef_jenkins-sample</sonar.projectKey>
   <sonar.host.url>https://sonarcloud.io</sonar.host.url>
 </properties>
   
