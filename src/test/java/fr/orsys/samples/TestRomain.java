@@ -15,7 +15,7 @@ public class TestRomain extends TestCase {
      * @param testName name of the test case
      */
     public TestRomain( String testName ) {
-        super( testName );;
+        super( testName );
     }
 
     /**
@@ -29,7 +29,7 @@ public class TestRomain extends TestCase {
      * Rigourous Test :-)
      */
     public void testApp() {
-        assertTrue(false);;
+        assertTrue(false);
     }
     
 }
